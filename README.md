@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saxamrawat
-- 👀 I’m interested in coding and web development.
-- 🌱 I’m currently learning Data Structures and Algorithm
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Coding and Data Analysis and Machine Learning.
+- 🌱 I’m currently learning DSA and ML.
+- 💞️ I’m looking to collaborate on ML Projects and Data Analysis Projects.
 - 📫 How to reach me Email me at: saxamrawat@gmail.com
 
 <!---
